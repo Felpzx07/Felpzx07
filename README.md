@@ -1,9 +1,8 @@
 ## My name is Felpzx, I'm 17 years old and I'm a student Information Security
  <div>
  
- ## <img src="https://cdn.discordapp.com/attachments/876900921022480427/888637589316313148/standard.gif" width="30px"> Hellooo Helloo World! </h2>
- <img height="180em" src="https://cdn.discordapp.com/attachments/876900921022480427/888637589316313148/standard.gif"/>          
- 
+ ## <img src="https://cdn.discordapp.com/attachments/876900921022480427/888637589316313148/standard.gif" width="30px">     
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
