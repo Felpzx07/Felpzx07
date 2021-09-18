@@ -2,7 +2,7 @@
  <div>
  
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/876900921022480427/888638904104792084/static_1.png" width="100px" />
+<img src="https://cdn.discordapp.com/attachments/876900921022480427/888638904104792084/static_1.png" width="800px" />
 </div>
 
 
