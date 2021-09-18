@@ -1,7 +1,9 @@
 ## My name is Felpzx, I'm 17 years old and I'm a student Information Security
  <div>
  
- ## <img src="https://cdn.discordapp.com/attachments/876900921022480427/888637589316313148/standard.gif" width="30px">     
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/876900921022480427/888637589316313148/standard.gif" width="700px" />
+</div> 
 
 </div>
 <div style="display: inline_block"><br>
