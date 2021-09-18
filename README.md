@@ -2,8 +2,7 @@
  <div>
  
 <div align="center">
-<h2>Let's code!!!</h2>
-<img src="https://cdn.discordapp.com/attachments/876900921022480427/888637589316313148/standard.gif" width="100px" />
+<img src="https://cdn.discordapp.com/attachments/876900921022480427/888638904104792084/static_1.png" width="100px" />
 </div>
 
 
